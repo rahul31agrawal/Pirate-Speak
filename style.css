@@ -1,0 +1,47 @@
+textarea {
+    width: 80%;
+    height:10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+button {
+background-color: yellow;
+border: none;
+margin: 1rem;
+padding: 1rem 2rem;
+font-family: 'Kalam', cursive;
+font-size: large;
+}
+
+#output {
+    width: 80%;
+    border: 1px solid black;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+}
+.heading{
+    font-family: 'Kalam', cursive;
+    background-color: yellow;
+    height: 20vh;
+    margin: 0rem;
+    padding: 1rem;
+    text-align: center;
+    
+    
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    display:block;
+    
+    float:left;
+    }
+
+
+
+    
+
