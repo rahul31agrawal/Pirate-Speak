@@ -7,7 +7,7 @@ textarea {
 }
 
 button {
-background-color: yellow;
+background-color: #ff9933;
 border: none;
 margin: 1rem;
 padding: 1rem 2rem;
@@ -24,7 +24,7 @@ font-size: large;
 }
 .heading{
     font-family: 'Kalam', cursive;
-    background-color: yellow;
+    background-color: #ff9933;
     height: 20vh;
     margin: 0rem;
     padding: 1rem;
